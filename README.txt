@@ -3,6 +3,11 @@ INTELLIGENT HYBRID RECOMMENDATION SYSTEM
 Profile-Based Matching Algorithm
 =================================================================
 
+DEMO LINK:
+--------------------------------------------------------------------------------------------------
+https://intelligent-hybrid-recommendation-system.streamlit.app/
+--------------------------------------------------------------------------------------------------
+
 PROJECT OVERVIEW:
 ----------------------------------------------------------------------------------------------------
 This project builds an intelligent profile matching system that recommends the top 5 most compatible users based on a combination of NLP similarity, MBTI personality compatibility, and location matching. The system also learns from user feedback to improve its recommendations over time.
