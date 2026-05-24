@@ -10,8 +10,8 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
 
 # ── Load Data ──────────────────────────────────────────────────
-users    = pd.read_csv("D:\\unlox\\MajorProject\\Datasets\\users.csv")
-feedback = pd.read_csv("D:\\unlox\\MajorProject\\Datasets\\feedback.csv")
+users    = pd.read_csv("/home/anirudhradhakrishnan/Documents/MajorProject/Datasets/users.csv")
+feedback = pd.read_csv("/home/anirudhradhakrishnan/Documents/MajorProject/Datasets/feedback.csv")
 
 # ── Preprocessing ──────────────────────────────────────────────
 nltk.download('stopwords', quiet=True)
